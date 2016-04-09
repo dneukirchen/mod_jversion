@@ -11,6 +11,6 @@
 <?php endif; ?>
 <?php if ($params->get('show_download_count', true)) : ?>
     <p class="downloads">
-        <?php echo number_format($release->downloads, 0, ',', '.') ?> <?php echo JText::_('MOD_JVERSION_DOWNLADS'); ?>
+        <?php echo number_format($release->downloads, 0, ',', '.') ?> <?php echo JText::_('MOD_JVERSION_DOWNLOADS'); ?>
     </p>
 <?php endif; ?>
