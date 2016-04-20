@@ -7,8 +7,6 @@ defined('_JEXEC') or die;
  */
 class ModJVersionHelper
 {
-    protected $xmlParser;
-
     /**
      * Get the latest joomla release from github api
      */
