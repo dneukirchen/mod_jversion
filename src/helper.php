@@ -1,4 +1,6 @@
-<?php use Joomla\Registry\Registry;
+<?php 
+
+use Joomla\Registry\Registry;
 
 defined('_JEXEC') or die;
 
